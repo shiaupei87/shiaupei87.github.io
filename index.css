@@ -1,0 +1,19 @@
+# shiaupei87.github.io
+
+.first-group {
+  color: yellow;
+  font-size: 30px;
+
+}
+.last-group {
+  color: purple;
+  font-family: fantasy;
+  font-weight: lighter;
+}
+#important {
+  font-size: 35px;
+  color: yellow;
+}
+body {
+  color: blue;
+}
